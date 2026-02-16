@@ -14,9 +14,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ProgKev/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
+  <a href="https://github.com/ProgKev" align="center">
+  <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=ProgKev.ProgKev">
+</a>
 </p>
 
+<br>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 ---
 
 - 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
